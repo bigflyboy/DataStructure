@@ -12,29 +12,34 @@
 		<key>01stack.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>4</integer>
 		</dict>
 		<key>06Libonacci.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 		<key>07Queue.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>7</integer>
 		</dict>
 		<key>08LinkQueue.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>8</integer>
 		</dict>
 		<key>09String.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>9</integer>
 		</dict>
 		<key>10BitTreeArray.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>11ThreadBinaryTree.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>11</integer>
@@ -52,7 +57,7 @@
 		<key>LinkStack.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>5</integer>
 		</dict>
 		<key>StaticLinkList.xcscheme</key>
 		<dict>
@@ -123,6 +128,11 @@
 			<true/>
 		</dict>
 		<key>5C2BF5341E742EC600117422</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C3DDDFB1E75253000EFCD90</key>
 		<dict>
 			<key>primary</key>
 			<true/>
